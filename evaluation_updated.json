@@ -1,0 +1,11 @@
+{
+  "fid_pooled_2048": 262.41248789185863,
+  "inception_score": 1.9429293870925903,
+  "evaluation_samples": 624,
+  "feature_extractor": "torchvision InceptionV3 ImageNet-1K",
+  "fid_features": "2048-dimensional pooled activations",
+  "image_range_after_normalization": "[-1, 1]",
+  "interpolation": "bilinear with antialiasing",
+  "best_epoch": 24,
+  "best_validation_loss": 110.27296837277696
+}
